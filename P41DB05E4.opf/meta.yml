@@ -1,0 +1,22 @@
+id: P41DB05E4
+initial_creation_type: input
+source_metadata:
+  title: Sakya Series
+  language: bo
+  description: 'Texts related to the Sakya (sa skya) tradition and its sub-branches:'
+  volume:
+    a2646aa622ec40b59ea7ea4c5941abb1:
+      title: 'The Pellucid Mirror: Behavioural Guidelines for the Saṅgha'
+      parent: Behavioural Guidelines
+    bb62299736dc4f7cbcc67c59ea0f9d80:
+      title: Aspiration to Follow the Gurus of the Ngor Tradition
+      parent: Prayers
+    99d024024dfd4af8a62c6f6d23fa19b7:
+      title: Prayer to the Supremely Learned Holders of the Glorious Sakya Teachings
+      parent: Prayers
+    64da0b3c78f84bcf845e6d7f2a2848ea:
+      title: Prayer to Root and Lineage Masters, and the Assembly of Deity, Ḍākinīs
+        and Dharma Protectors of the Sakya Lineage
+      parent: Prayers
+created_at: '2022-03-01T05:38:23.401594'
+last_modified_at: '2022-03-01T05:38:23.401597'
